@@ -1,0 +1,36 @@
+body{margin: 0;}
+
+section{
+    height: 100vh;
+display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+h1{
+    margin-bottom: 15vh;
+    font-size: 2em;
+}
+p{
+    margin-left: 8vw;
+    margin-right: 8vw;
+    margin-bottom: 10vh;
+}
+
+#blue{
+    background-color: #699BF7;
+
+}
+a{ color: black;
+    font-size: 2em;
+}
+#green{
+    background-color: darkseagreen;
+
+}
+#pink{
+    background-color: hotpink;
+}
+.up{
+
+}
