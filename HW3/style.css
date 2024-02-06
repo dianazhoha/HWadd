@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+.first{
+    height: 50vh;
+    width: 100vw;
+    background-color: #C7B9FF;
+}
+.second{
+    height: 50vh;
+    width: 100vw;
+    background-color: hotpink;
+
+}
+h2{
+    margin-top: 15vh;
+    display: flex;
+    text-align: center;
+}
+p{
+    display: flex;
+    text-align: center;
+    margin-bottom: 15vh;
+}
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
