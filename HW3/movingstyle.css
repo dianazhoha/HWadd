@@ -31,6 +31,6 @@ a{ color: black;
 #pink{
     background-color: hotpink;
 }
-.up{
-
+html{
+    scroll-behavior: smooth;
 }
