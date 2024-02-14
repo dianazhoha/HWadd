@@ -1,0 +1,35 @@
+body{ margin: 0;}
+
+header{
+    height: 30vh;
+    background-color: #da3e88;
+}
+main{ display: flex;}
+
+.general{
+    display: flex;
+    height: 70vh;
+    width: 75vw;
+    flex-wrap: wrap;
+}
+ .big{
+     height: 35vh;
+     width: 75vw;
+     background-color: #d9759a;
+ }
+
+ .one, .two, .three{
+     height: 35vh;
+     width: 25vw;
+ }
+ .one{background-color: #e04dab;
+ }
+ .two{background-color: #963262;
+ }
+ .three{ background-color: #c94681;
+ }
+ article{
+     height: 70vh;
+     width: 30vw;
+     background-color: mediumvioletred;
+ }

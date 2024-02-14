@@ -1,0 +1,40 @@
+@media screen and (min-width: 300px) and (max-width: 500px)
+{
+.general{
+    height: 50vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    .big{
+        height: 25vh;
+        width:100vw;
+    }
+
+    .one, .two, .three{
+        height: 25vh;
+        width: 33vw;}
+
+    article{
+        height: 20vh;
+        width: 100vw;
+    }
+    main{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+}

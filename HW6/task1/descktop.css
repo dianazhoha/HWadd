@@ -1,0 +1,19 @@
+body{margin: 0;}
+
+header{
+    height: 30vh;
+    background-color: aquamarine;
+}
+div{
+    display: flex;
+}
+article{
+    height: 70vh;
+    width: 70vw;
+    background-color: cornsilk;
+}
+nav{
+    height: 70vh;
+    width: 30vw;
+    background-color: darkcyan;
+}
